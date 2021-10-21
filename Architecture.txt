@@ -1,0 +1,8 @@
+A Class named url is defined for storing the url as objects of the class. Given url is associated with count and keyvalue. This is stored inside an object of url class.
+The objects are stored in a arrayList.
+The input command is stored into two string variables. The command is checked if it is valid. For storeurl command and object of url class initialized with given url name and count as 0 and 
+unique key is generated. For get command the given url is searched among the objects and the keyvalue of the matched object is returned.
+The list command itirates through object array and prints url and count of each object.
+The count command displays the count value of the specified url.
+The exit command terminates the program.
+The objects are stored ina
